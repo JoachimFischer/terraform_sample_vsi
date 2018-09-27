@@ -12,6 +12,8 @@ https://developer.ibm.com/recipes/tutorials/infrastructure-automation-with-terra
 ## Dependencies
 The following variables need to be set in the terraform.tf file before use
 
-- SL_USERNAME is a SoftLayer user name. Go to https://control.bluemix.net/account/user/profile, scroll down, and check API Username.
-- SL_API_KEY is a SoftLayer API Key. Go to https://control.bluemix.net/account/user/profile, scroll down, and check Authentication Key.
-- BM_API_KEY - An API key for IBM Cloud services. If you don't have one already, go to https://console.bluemix.net/iam/#/apikeys and create a new key.
+- iaas_username is your IBM IaaS Infrastructure full username. Go to https://control.bluemix.net/account/user/profile, scroll down, and check API Username.
+- ibmcloud_iaas_api_key is your IBM IaaS Infrastructure API key. Go to https://control.bluemix.net/account/user/profile, scroll down, and check Authentication Key.
+- ibmcloud_api_key is your IBM Cloud API Key for IBM Cloud services. If you don't have one already, go to https://console.bluemix.net/iam/#/apikeys and create a new key.
+
+
