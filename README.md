@@ -6,7 +6,7 @@ steve_strutt@uk.ibm.com
 Licensed under the Apache License, Version 2.0 (the "License");
 
 This sample is intended for use with the following tutorial:
-https://developer.ibm.com/recipes/tutorials/infrastructure-automation-with-terraform-on-ibm-cloud-iaas/
+https://github.ibm.com/Bluemix-Docs/recipes/edit/staging/terraform-install.md
 
 
 ## Dependencies
