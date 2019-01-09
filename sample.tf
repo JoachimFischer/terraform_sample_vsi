@@ -5,7 +5,7 @@ resource "ibm_compute_vm_instance" "vm1" {
   datacenter           = "dal09"
   network_speed        = 100
   hourly_billing       = true
-  private_network_only = yes
+  private_network_only = true
   cores                = 1
   memory               = 1024
   disks                = [25]
